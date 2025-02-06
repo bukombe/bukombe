@@ -1,10 +1,10 @@
 # J. Paul Bukombe's GitHub Stats 🚀
 
-![J. Paul Bukombe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bukombe&show_icons=true&theme=tokyonight&count_private=true)
+![J. Paul Bukombe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bukombe&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ### 🌟 GitHub Stars & Contributions  
 - **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/bukombe?style=social)  
-- **Total Commits:** ![Commits](https://img.shields.io/github/commit-activity/y/bukombe?style=plastic)
+- **Total Commits (Private + Public):** ![Commits](https://github-readme-stats.vercel.app/api?username=bukombe&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
 
 📌 **Repositories & Contributions**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukombe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
