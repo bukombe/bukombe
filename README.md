@@ -1,6 +1,6 @@
 # J. Paul Bukombe's GitHub Stats 🚀
 
-![J. Paul Bukombe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bukombe&show_icons=true&theme=tokyonight&count_private=true)
+![Bukombe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bukombe&show_icons=true&theme=tokyonight&count_private=true)
 
 ### 🌟 GitHub Stars & Contributions  
 - **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/bukombe?style=social)  
