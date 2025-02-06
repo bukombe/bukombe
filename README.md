@@ -4,7 +4,7 @@
 
 ### 🌟 GitHub Stars & Contributions  
 - **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/bukombe?style=social)  
-- **Total Commits:** ![Total Commits](https://github-readme-streak-stats.herokuapp.com/?user=bukombe&theme=tokyonight)  
+- **Total Commits:** ![Commits](https://img.shields.io/github/commit-activity/y/bukombe?style=plastic)
 
 📌 **Repositories & Contributions**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukombe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
