@@ -1,16 +1,14 @@
-## Hi there 👋
+# J. Paul Bukombe's GitHub Stats 🚀
 
-<!--
-**bukombe/bukombe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![J. Paul Bukombe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bukombe&show_icons=true&theme=tokyonight&count_private=true)
 
-Here are some ideas to get you started:
+### 🌟 GitHub Stars & Contributions  
+- **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/bukombe?style=social)  
+- **Total Commits:** ![Commits](https://img.shields.io/github/commit-activity/y/bukombe?style=plastic)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Repositories & Contributions**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukombe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+🚀 **Let's Connect!**  
+🔗 [LinkedIn](https://www.linkedin.com/in/bukombe)  
+🔗 [Website](https://sokowanda.com)  
