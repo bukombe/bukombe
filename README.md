@@ -7,6 +7,10 @@
 [<img src="https://tryhackme-badges.s3.amazonaws.com/bukombe.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/bukombe) 
 
 
+[![Credly Badge](https://images.credly.com/size/340x340/4d1ec53d-8eee-4635-8ace-e08cc19b7f71.png)](https://www.credly.com/badges/4d1ec53d-8eee-4635-8ace-e08cc19b7f71)
+
+
+
 
 
 
