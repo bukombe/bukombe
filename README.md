@@ -2,11 +2,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=bukombe&theme=darkhub&no-frame=true"/>
 
-<p align="center">
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukombe&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bukombe&theme=github-dark&hide_border=true"/>
