@@ -2,6 +2,17 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=bukombe&theme=darkhub&no-frame=true"/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bukombe&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukombe&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bukombe&theme=github-dark&hide_border=true"/>
+</p>
+
+
 ### 🛡️ TryHackMe Badge
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/bukombe.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/bukombe) <a href="https://www.credly.com/badges/4d1ec53d-8eee-4635-8ace-e08cc19b7f71">
