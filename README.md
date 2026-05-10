@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bukombe's GitHub
+# Bukombe's GitHub Stats
 
 <img src="https://github-profile-trophy.vercel.app/?username=bukombe&theme=darkhub&no-frame=true"/>
 
